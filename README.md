@@ -30,4 +30,5 @@ Função em Javascript que deixa as letras do textarea minusculas em tempo real.
     let resultado = string.value.toLowerCase();
     string.value = resultado;
 }
-# URL do site: https://geonaldo.github.io/decodificador-de-texto/
+
+https://geonaldo.github.io/decodificador-de-texto/
